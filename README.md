@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ariel Peaceo Gunawan 
-- 👀 I’m interested in Web Development, Database, and Cloud Development
+- 👀 I’m interested in Back-end Development, Database, and Cloud Engineer
 - 🌱 I’m currently learning Web Development especially Backend Development and Cloud Engineering
 - 💞️ If you would like to connect with me, please visit my [LinkeIn](https://www.linkedin.com/in/ariel-peaceo-gunawan-5575971b7/).
 - 📫 How to reach me LINEID:kinozm / [Instagram](https://www.instagram.com/ariel_pcgcheals/?hl=en) 
